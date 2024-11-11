@@ -9,6 +9,6 @@ There is three action:
                     2) add -0.01 nanometer to available x point
                     3) stop at available x point
 
-for action selecting used for Pytorch DQN model
+for action selecting used for DQN model
 
                     
